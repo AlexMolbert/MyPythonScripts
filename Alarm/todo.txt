@@ -1,0 +1,8 @@
+change 24 hour clock to 12 hour clock(am/pm functionality)
+Make it print time only once a minute, on the minute
+OR
+Settings Page!
+Let user change settings to pick an interval to be reminded of the time (Countdown or intervals)
+Multiple alarms
+Add option to add/remove youtube videos in script
+Option to view youtube video titles on random selection
