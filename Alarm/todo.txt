@@ -6,3 +6,4 @@ Let user change settings to pick an interval to be reminded of the time (Countdo
 Multiple alarms
 Add option to add/remove youtube videos in script
 Option to view youtube video titles on random selection
+Etc.
